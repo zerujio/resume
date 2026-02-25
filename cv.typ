@@ -96,8 +96,8 @@ GitHub: #link("https://github.com/zerujio")[zerujio]
   "Jr. Gameplay Engineer",
   datetime(day: 01, month: 08, year: 2022),
   datetime(day: 28, month: 02, year: 2024))
-- Collaborated with a multidisciplinary team across multiple projects, both with external and internal IPs.
-- Single and multiplayer gameplay programming, focused on Unreal Engine 4 and 5.
+- Single and multiplayer gameplay programming, focused on fighting and action games in Unreal Engine 4 and 5.
+- Collaborated with a multidisciplinary team across multiple projects, both with external and internal IPs. 
 - Porting to PS4/5, XBox One/Series, and Nintendo Switch.
 
 == Sixbell
