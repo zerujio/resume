@@ -3,7 +3,7 @@
 )
 #set page(
   paper: "a4",
-  margin: 2.25cm,
+  margin: 2cm,
 )
 #set line(length:100%, stroke: 0.5pt)
 
@@ -15,7 +15,8 @@
 #columns(2)[
 semoralesd\@gmail.com \
 +56 9 5671 1614 \
-Valparaíso, Chile (open to relocation) \
+Valparaíso, Chile \
+_Open to relocation for on-site or hybrid roles._
 
 #colbreak()
 
@@ -66,7 +67,7 @@ GitHub: #link("https://github.com/zerujio")[zerujio]
     ]
   ]
   
-== Big Moxi Games
+== #link("https://bigmoxigames.com")[Big Moxi Games]
 
 #jobsummary(
   "Mid. Gameplay Engineer",
@@ -89,7 +90,7 @@ GitHub: #link("https://github.com/zerujio")[zerujio]
   - Implementation of MVVM architecture to allow engineering and UI/UX teams to work in parallel.
   - Set up thread-safe game context data for use in animation blueprints, facilitating scenes with hundreds of animated characters-.
   
-== AOne Games
+== #link("https://aonegames.com")[AOne Games]
 
 #jobsummary(
   "Jr. Gameplay Engineer",
